@@ -1,5 +1,7 @@
 config_data = {
     "token": "7074117670:AAGiRLdms09vsBhO0xtUeIXiwbQJrKM2nDc",
+    "path_to_db": "database/users.db",
+    "click_reward": 5,
     "messages": {
         "start_message": """
 📱 Меню небольшого бота-кликера
